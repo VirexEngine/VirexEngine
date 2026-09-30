@@ -176,7 +176,7 @@ Have an opportunity, an idea to explore, or want to talk engineering?
 
 <br/>
 
-<a href="https://linkedin.com/in/[LINKEDIN_URL]">
+<a href="https://www.linkedin.com/in/pratyush-kumar-06368b394/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -188,7 +188,7 @@ Have an opportunity, an idea to explore, or want to talk engineering?
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:[EMAIL]">
+<a href="mailto:pratyushhapii@gmail.com">
   <img src="https://img.shields.io/badge/Direct%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
