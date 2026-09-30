@@ -68,43 +68,57 @@ Computer Science undergraduate passionate about bridging intelligent models with
 
 ---
 
-### &nbsp; Tech Stack
+### &nbsp; Technical Interests & Technologies
 
-<p align="left"><b>Languages & Foundations</b></p>
+<p align="left"><b>Languages</b></p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="left"><b>AI & Machine Learning</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0A0A0A?style=flat-square&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=flat-square&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-334155?style=flat-square&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Generative_AI-8E75C2?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+<p align="left"><b>Computer Science Foundations</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1117?style=flat-square&logoColor=00E599" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Object--Oriented_Programming-161B22?style=flat-square&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Database_Fundamentals-21262D?style=flat-square&logoColor=white" alt="Database Fundamentals" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+</p>
+
+<p align="left"><b>Web Development</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="left"><b>Databases</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<p align="left"><b>AI, Data & Automation</b></p>
+<p align="left"><b>Tools & Infrastructure</b></p>
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlebard&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Groq-F05A28?style=flat-square&logo=speedtest&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
-<p align="left"><b>Web & Backend Engineering</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="left"><b>Databases, DevOps & Tools</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
