@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Pratyush Kumar - AI & Web Developer Banner" width="100%" />
+<img src="./assets/banner-v2.png" alt="Pratyush Kumar - AI & Web Developer Banner" width="100%" />
 
 <br/><br/>
 
