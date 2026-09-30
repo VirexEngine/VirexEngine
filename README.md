@@ -2,24 +2,6 @@
 
 <img src="./assets/banner-v2.png" alt="Pratyush Kumar - AI & Web Developer Banner" width="100%" />
 
-<br/><br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://[PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=00e599" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:[EMAIL]">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-00e599?style=flat-square&logoColor=0d1117" alt="Status" />
-</p>
-
 </div>
 
 ---
