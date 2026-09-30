@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pratyush Kumar
+<img src="./assets/banner.png" alt="Pratyush Kumar - AI & Web Developer Banner" width="100%" />
 
-### Computer Science Student &bull; AI/ML &bull; Web Development &bull; Intelligent Systems
+<br/><br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_URL]">
