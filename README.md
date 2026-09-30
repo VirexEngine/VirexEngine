@@ -123,9 +123,7 @@ I'm a Computer Science undergraduate interested in AI, machine learning, and web
         <b>Stack:</b> <code>React</code> <code>Node.js</code> <code>FastAPI</code> <code>MongoDB</code> <code>Gemini API</code>
       </p>
       <p align="left">
-        <a href="https://github.com/VirexEngine/[PROJECT_URL]"><b>Source Code →</b></a>
-        &nbsp;|&nbsp;
-        <a href="https://[PROJECT_URL]"><b>Live Demo →</b></a>
+        <a href="https://github.com/VirexEngine/campus-companion"><b>Source Code →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
