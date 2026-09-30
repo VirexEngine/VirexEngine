@@ -166,7 +166,7 @@ Computer Science undergraduate passionate about bridging intelligent models with
 
 ---
 
-### &nbsp; Engineering Activity & GitHub Analytics
+### &nbsp; Engineering Activity
 
 <div align="center">
   <picture>
@@ -179,16 +179,6 @@ Computer Science undergraduate passionate about bridging intelligent models with
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VirexEngine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e599&text_color=c9d1d9">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VirexEngine&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=24292f">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirexEngine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e599&text_color=c9d1d9" alt="VirexEngine Top Languages" height="155" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=VirexEngine&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=00e599&fire=00e599&currStreakNum=00e599&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=VirexEngine&theme=light&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=24292f&sideLabels=57606a&dates=57606a">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirexEngine&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=00e599&fire=00e599&currStreakNum=00e599&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="70%" />
   </picture>
 </div>
 
