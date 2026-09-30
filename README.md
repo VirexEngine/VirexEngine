@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e599&height=180&section=header&text=Pratyush%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20CSE%20%7C%20AI%2FML%20%26%20Full-Stack%20Systems%20%7C%20@VirexEngine&descFontSize=16&descColor=8b949e&descAlignY=66" width="100%" alt="Pratyush Kumar Banner" />
+# Pratyush Kumar
+
+### Computer Science Student &bull; AI/ML &bull; Web Development &bull; Intelligent Systems
 
 <p align="center">
   <a href="https://linkedin.com/in/[LINKEDIN_URL]">
@@ -32,12 +33,13 @@ profile:
   academics: B.Tech in Computer Science & Engineering
   focus_areas:
     - Artificial Intelligence & Machine Learning
-    - Full-Stack Engineering (FastAPI, React, Node.js)
-    - LLM Integrations, Workflow Automation & IoT Edge Systems
-  core_philosophy: "Architect clean foundations, turn research into tangible products."
+    - Deep Learning, NLP & Data Science
+    - Data Structures & Algorithms
+    - Web Development & Intelligent Systems
+  core_philosophy: "Architect clean foundations, turn ideas into practical products."
 ```
 
-Computer Science undergraduate passionate about bridging intelligent models with resilient full-stack architectures. I design and build production-style systems—from intelligent automation pipelines and LLM-augmented developer tools to distributed sensor networks and smart platforms.
+I'm a Computer Science undergraduate interested in AI, machine learning, and web development. I enjoy turning ideas into practical systems—from intelligent software and automation pipelines to sensor-driven applications and real-world engineering projects.
 
 ---
 
